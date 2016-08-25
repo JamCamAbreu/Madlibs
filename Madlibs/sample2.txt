@@ -1,0 +1,11 @@
+[title] sample2: Love Letter
+[author] madglibs.com
+
+[body] Dear [ person in the room ] ,
+
+[p] You are extremly [ adjective ] and I [ verb ] you! I want kiss your [ part of the body ] [ number ] times. 
+
+[p] You make my [ noun ] burn with desire. When I first saw you, I [ adverb ] stared at you and fell in love. 
+Will you [ verb ] out with me? Don`t let your parents discourage you, [ plural pronoun ] are just jealous.
+
+[p] Yours forever, [ other person in the room ]

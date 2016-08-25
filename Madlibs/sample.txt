@@ -1,0 +1,16 @@
+[title] Sample1: The Dragon 
+[author] Cam Abreu
+
+[body] Once upon a time, a [ adjective ] dragon egg was discovered. The year was
+[ date ] , and the [ animal, singular ]  species have risen to the top of the food chain. But
+the dragon species is a very [ adjective ]  and wise species, and without fear.
+
+[p] The egg was [ verb, past tense ] in silence until it was hatched.
+Immedietly, the [ adjective ] dragon  [ verb, past tense ] in anger and shot
+his [ adjective ] breath to anyone it could see, especially [ name of friend,
+or person in the room ] . 
+
+[p] For all the excitement, it was over in a flash. The window opened and the
+dragon escaped. Now, seeking a hideout in the wild [ biodome ] , the dragon will
+wait in silence for the world to forget. Memory will linger into legend, and
+only then will our dragon [ verb ] with [ species, plural ] . 
